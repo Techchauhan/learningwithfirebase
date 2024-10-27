@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622267976916",
+    "project_id": "learningwithpulsezest",
+    "storage_bucket": "learningwithpulsezest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622267976916:android:4b26c45b090ecd011c3f41",
+        "android_client_info": {
+          "package_name": "com.pulsezest.learningwithpulsezest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTwOGkpt4MZ0UZZLAqFZdPaWsY5ZTTSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
